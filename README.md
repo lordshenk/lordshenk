@@ -1,5 +1,4 @@
 # Hello, I'm Bui Duy Khanh  :palm_tree:
-***
 ### :computer: A Front-end Developer  
 ***  
 :mailbox: Contact to me  
